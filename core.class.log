@@ -1,0 +1,1023 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3E3AE9A2AA54F8AD30',
+    participant: undefined
+  },
+  messageTimestamp: 1725381137,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51977364125'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A66C5678603AD5B503B',
+    participant: undefined
+  },
+  messageTimestamp: 1725381146,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'perfecto',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'perfecto',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51991576027@s.whatsapp.net',
+    fromMe: false,
+    id: '59889EEA17AADE1D1EB24128006291D9',
+    participant: undefined
+  },
+  messageTimestamp: 1725381172,
+  pushName: 'Franchesca Arzola',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'hola',
+  from: '51991576027'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51991576027@s.whatsapp.net',
+    fromMe: false,
+    id: '78D193ADA795A318FB7373E4BE195D0D',
+    participant: undefined
+  },
+  messageTimestamp: 1725381179,
+  pushName: 'Franchesca Arzola',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'JAJAJAJAJAJAJAJA',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJAJAJAJAJAJA',
+  from: '51991576027'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A72B18E0D113D2F091E',
+    participant: undefined
+  },
+  messageTimestamp: 1725381204,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'como debe ser',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como debe ser',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: MessageKey {
+    remoteJid: '51964292438-1501881213@g.us',
+    fromMe: false,
+    id: '3EB071D4B7E9B8461BA3',
+    participant: '51957544143@s.whatsapp.net'
+  },
+  update: { pollUpdates: [ [Object] ] },
+  body: 'juevs',
+  from: '51964292438-1501881213@g.us',
+  pushName: 'Isabel',
+  broadcast: false,
+  messageTimestamp: 1725381264,
+  voters: Message {
+    messageContextInfo: MessageContextInfo {
+      messageSecret: <Buffer 43 cd 95 ec 5c e0 ff cc 6c 6e ee d2 8d 8c d2 43 d2 06 04 43 06 a1 ac 7e a5 8a 92 0c 84 db 37 1c>
+    },
+    pollCreationMessage: PollCreationMessage {
+      options: [Array],
+      name: 'Que dia propones viajar',
+      selectableOptionsCount: 0
+    }
+  },
+  type: 'poll'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A544803C4E408E1841B',
+    participant: undefined
+  },
+  messageTimestamp: 1725381290,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'sí', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'sí',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE89AE8F1A1319C082C',
+    participant: undefined
+  },
+  messageTimestamp: 1725381296,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'un racoon bueno y bien educado',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'un racoon bueno y bien educado',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC8B97BE34C3D5707C4',
+    participant: undefined
+  },
+  messageTimestamp: 1725381299,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'que respeta y que ama',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'que respeta y que ama',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A813C13FE27A8C41057',
+    participant: undefined
+  },
+  messageTimestamp: 1725381301,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/28499250_3820671838220804_1662107543052221942_n.enc?ccb=11-4&oh=01_Q5AaIHO9pxY7FpMzZ2N0URs0WsfSOUnNUeJcHQsIGmWWIDFz&oe=66FE9C12&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/28499250_3820671838220804_1662107543052221942_n.enc?ccb=11-4&oh=01_Q5AaIHO9pxY7FpMzZ2N0URs0WsfSOUnNUeJcHQsIGmWWIDFz&oe=66FE9C12&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 12068,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true,
+      contextInfo: [ContextInfo],
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__918fd20b-cf7a-4130-b12c-e8bccd718305',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEDE3CC024548E14DA8',
+    participant: undefined
+  },
+  messageTimestamp: 1725381304,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'sí', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'sí',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1CDE484454F339B289',
+    participant: undefined
+  },
+  messageTimestamp: 1725381311,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'pero con las patas racoonezcas',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pero con las patas racoonezcas',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7124F22051CFA0A29F',
+    participant: undefined
+  },
+  messageTimestamp: 1725381333,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'asu mi cabello estás esponjado',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'asu mi cabello estás esponjado',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977364125@s.whatsapp.net',
+    fromMe: false,
+    id: '3A31350CC9123B42152E',
+    participant: undefined
+  },
+  messageTimestamp: 1725381334,
+  pushName: 'aileen rodriguez 💗',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'xd', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'xd',
+  from: '51977364125'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51957392457@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9A0C705FD23982A206',
+    participant: undefined
+  },
+  messageTimestamp: 1725381347,
+  pushName: 'Luigui Alarcon',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51957392457'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51957392457@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5D706920EA9D5A7AA3',
+    participant: undefined
+  },
+  messageTimestamp: 1725381351,
+  pushName: 'Luigui Alarcon',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pa que',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pa que',
+  from: '51957392457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51957392457@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABE8E2CF93B63FD7ECE',
+    participant: undefined
+  },
+  messageTimestamp: 1725381355,
+  pushName: 'Luigui Alarcon',
+  broadcast: false,
+  message: Message {
+    conversation: 'xddddd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'xddddd',
+  from: '51957392457'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A551001FFA1352483F6',
+    participant: undefined
+  },
+  messageTimestamp: 1725381606,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A27353C7919552B5026',
+    participant: undefined
+  },
+  messageTimestamp: 1725381606,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'O es tarde',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O es tarde',
+  from: '51936190750'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1F00B8ACC820B2D876',
+    participant: undefined
+  },
+  messageTimestamp: 1725381607,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'JAJAJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJA',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A89A372EE0C5ABE936F',
+    participant: undefined
+  },
+  messageTimestamp: 1725381638,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/11699995_733286465591257_8126757090998422104_n.enc?ccb=11-4&oh=01_Q5AaIJAd7rM90uahuYmGjVSNHJFlYw9E2Y-yV8FJ5Fxhx5xC&oe=66FEC183&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/11699995_733286465591257_8126757090998422104_n.enc?ccb=11-4&oh=01_Q5AaIJAd7rM90uahuYmGjVSNHJFlYw9E2Y-yV8FJ5Fxhx5xC&oe=66FEC183&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__0ccdb7a0-efc0-4466-9148-f9038d3063d4',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A491A14C28F20D80802',
+    participant: undefined
+  },
+  messageTimestamp: 1725381638,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'JAJAJAJAJAJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'JAJAJAJAJAJA',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A82877B508E36AB79C4',
+    participant: undefined
+  },
+  messageTimestamp: 1725381638,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'ptm',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ptm',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF317F7CC144DF29A3C',
+    participant: undefined
+  },
+  messageTimestamp: 1725381638,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51936190750'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3ACCA7A08A49C0236D56',
+    participant: undefined
+  },
+  messageTimestamp: 1725381643,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A163241EDE9F9039BAD',
+    participant: undefined
+  },
+  messageTimestamp: 1725381648,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'HOLA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'HOLA',
+  from: '51936190750'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A53FFCB8F183149AA01',
+    participant: undefined
+  },
+  messageTimestamp: 1725381653,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola?',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD985FDCDABFAA34CDA',
+    participant: undefined
+  },
+  messageTimestamp: 1725381661,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'No funciona ahí',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No funciona ahí',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7984D9257300190E31',
+    participant: undefined
+  },
+  messageTimestamp: 1725381664,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'HOLA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'HOLA',
+  from: '51936190750'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  keyword: 'key_19cc472a-bc2d-436b-9887-447f5faab601',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd288bb4fd490d232680a3bbfff5f4668'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_00db309b-ce05-4d4c-8e5c-e40aa2d2e788',
+  keyword: 'ans_ede6e670-5275-4966-8d86-bb28e0151be3',
+  answer: 'Tengo novia, no me hables',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4de112ec9f12108867ffbc3ca2f5b087'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A15F0C4D302E2698122',
+    participant: undefined
+  },
+  messageTimestamp: 1725381668,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3AD98B62E57BA7B952',
+    participant: undefined
+  },
+  messageTimestamp: 1725381673,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'a',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'a',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A33C00A745E5265FB2A',
+    participant: undefined
+  },
+  messageTimestamp: 1725381676,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'holi',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'holi',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF2D509E96A99D42014',
+    participant: undefined
+  },
+  messageTimestamp: 1725381725,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'Probando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Probando',
+  from: '51936190750'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51936190750@s.whatsapp.net',
+    fromMe: false,
+    id: '3A81A9A74B48AC832BAD',
+    participant: undefined
+  },
+  messageTimestamp: 1725381726,
+  pushName: 'Luciana',
+  broadcast: false,
+  message: Message {
+    conversation: 'AJAJAJAI',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'AJAJAJAI',
+  from: '51936190750'
+}
