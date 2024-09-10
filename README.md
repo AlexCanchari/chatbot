@@ -1,3 +1,0 @@
-### CHATBOT Whatsapp (Baileys Provider)
-
-
