@@ -27,7 +27,7 @@ def predict():
         return jsonify(data)
 
         #except:
-        return jsonify({'error':'error during prediction'})
+            #return jsonify({'error':'error during prediction'})
 
     return jsonify({'result':1})
 

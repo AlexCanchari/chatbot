@@ -118,8 +118,8 @@ class inception_v3(pl.LightningModule):
 
 model = inception_v3(num_classes = 40, lr = 1e-3)
 PATH = './inception_v3.pt'
-model.load_state_dict(torch.load(PATH))
-model.eval()
+model.load_state_dict(torch.load(PATH, map_location=torch.device('cpu')))
+model.eval()    
 
 
 #image -> tensor
@@ -130,14 +130,18 @@ def transform_image(image_bytes):
                                     transforms.ToTensor(),
                                     transforms.Normalize(model.get_mean_std()[0], model.get_mean_std()[1])])
     image = Image.open(io.BytesIO(image_bytes))
-    return transform(image).unsqueeze(0)
+    image = transform(image)
+    image = image.unsqueeze(0)
+    return image
 
 #predict
 
 
 
 def get_prediction(image_tensor):
-    images = image_tensor.reshape(-1,224*224)
+    images = image_tensor
     outputs = model(images)
     _,predicted = torch.max(outputs.data,1)
     return predicted
+
+
