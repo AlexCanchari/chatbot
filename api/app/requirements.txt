@@ -1,0 +1,5 @@
+pytorch-lightning==2.2.5
+Flask==3.0.1
+torchview==0.2.6
+git+https://github.com/rwightman/pytorch-image-models.git#egg=timm
+

@@ -1,27 +1,34 @@
+const { spawn } = require('child_process');
+const fs = require('fs');
 
-const postCompletion = async (messages) => {
-    try {
-        const response = await fetch('http://127.0.0.1:1233/v1/chat/completions', {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                model: "TheBloke/Mistral-7B-Instruct-v0.1-GGUF/mistral-7b-instruct-v0.1.Q4_0.gguf",
-                messages: messages,
-                temperature: 0.7,
-                stream: false
-            })
+const postCompletion = async (filePath) => {
+    return new Promise((resolve, reject) => {
+        const python = spawn('python', ['./conexion_python.py']);
+        
+        let result = '';
+        let error = '';
+
+        python.stdout.on('data', (data) => {
+            result += data.toString();
         });
-        if (!response.ok) throw new Error('Failed to fetch');
-        const completion = await response.json();
-        const answer = completion.choices[0].message.content;
-        return answer;
-    }
-    catch (error) {
-        console.error("Error: ", error);
-    }   
+
+        python.stderr.on('data', (data) => {
+            error += data.toString();
+        });
+
+        python.on('close', (code) => {
+            if (code !== 0) {
+                reject(new Error(`Python script exited with code ${code}. Error: ${error}`));
+            } else {
+                resolve(result.trim());  
+            }
+        });
+
+        // Enviar la ruta del archivo al script Python
+        python.stdin.write(filePath);
+        python.stdin.end();
+
+    });
 };
 
-module.exports = {postCompletion} ;
-
+module.exports = { postCompletion };

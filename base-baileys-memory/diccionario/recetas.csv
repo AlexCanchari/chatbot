@@ -1,0 +1,41 @@
+plato,clase,receta,alergia
+Aguadito,10,"Pollo, arroz, culantro, zanahoria, arvejas, choclo, ajo, cebolla, aji amarillo, papa, sal, pimienta",No contiene
+Carapulcra,0,"Papa seca, mani, carne de cerdo, aji panca, aji mirasol, ajo, cebolla, clavo de olor, comino, caldo de pollo",mani
+Escabeche,28,"Pescado o pollo, vinagre, aji panca, cebolla, ajo, zanahoria, comino, oregano, hojas de laurel, aceitunas, huevo duro, camote","huevo, pescado"
+Papa_Rellena,18,"Papas, carne molida, cebolla, ajo, aji panca, huevo duro, aceitunas, pasas, harina, huevo, sal, pimienta",huevo
+Aji_De_Gallina,21,"Pechuga de pollo, pan de molde, leche evaporada, aji amarillo, nueces, queso parmesano, ajo, cebolla, caldo de pollo, aceite, sal, pimienta, aceitunas, huevo duro","huevo, leche"
+Cau_Cau,4,"Mondongo, papa, cebolla, ajo, aji amarillo, hierbabuena, palillo (curcuma), arvejas, zanahoria, sal, pimienta",No contiene
+Estofado,31,"Carne de res, cebolla, ajo, zanahoria, arvejas, tomate, papa, laurel, comino, sal, pimienta",No contiene
+Patasca,22,"Carne de res, mote, cebolla, ajo, aji panca, oregano, hierbabuena, sal, pimienta",No contiene
+Anticuchos,32,"Corazion de res, aji panca, ajo, comino, vinagre, sal, pimienta, palitos para brochetas",No contiene
+Causa_Limea,1,"Papa amarilla, aji amarillo, limion, aceite, atun o pollo, mayonesa, palta, huevo duro, sal, pimienta",huevo
+Frejoles_con_Seco,5,"Frejoles, carne de res, cilantro, cebolla, ajo, aji amarillo, cerveza negra, comino, sal, pimienta",No contiene
+Pollo_a_la_brasa,27,"Pollo entero, ajo, aji panca, aji amarillo, comino, sal, pimienta, cerveza negra, vinagre, oregano",No contiene
+Arroz_Chaufa,34,"Arroz, pollo o cerdo, cebolla china, huevo, salsa de soya, aceite de sesamo, jengibre, ajo, sal, pimienta",huevo
+Cebiche,3,"Pescado fresco, limion, cebolla roja, aji limo, cilantro, camote, choclo, sal, pimienta",pescado
+Humitas,29,"Choclo, manteca, aji amarillo, queso fresco, leche, huevo, sal","huevo, leche"
+Rocoto_Relleno,19,"Rocotos, carne molida, cebolla, ajo, mani, pasas, queso fresco, leche, huevo, papa, comino, sal, pimienta","huevo, mani, leche"
+Arroz_con_Mariscos,35,"Arroz, mixtura de mariscos, cebolla, ajo, aji amarillo, pimention, caldo de pescado, arvejas, zanahoria, chicha de jora, culantro, sal, pimienta, queso","marisco, pescado"
+Chanfainita,6,"Pulmion de res, papa, cebolla, ajo, aji panca, aji amarillo, hierbabuena, sal, pimienta",No contiene
+Lentejas,14,"Lentejas, cebolla, ajo, tomate, aji amarillo, zanahoria, comino, laurel, sal, pimienta",No contiene
+Sopa_a_la_Minuta,30,"Carne de res, fideos, leche, huevo, ajo, cebolla, tomate, oregano, sal, pimienta","huevo, leche"
+Arroz_con_Pollo,36,"Pollo, arroz, cilantro, cebolla, ajo, aji amarillo, zanahoria, arvejas, pimiento, chicha de jora, cerveza negra, sal, pimienta",No contiene
+Chicharron_de_Mariscos,9,"Mixtura de mariscos, maicena, harina, huevo, limion, sal, pimienta, aceite","marisco, huevo"
+Locro,25,"Zapallo, papa, choclo, habas, queso fresco, leche, cebolla, ajo, aji amarillo, huacatay, sal, pimienta",leche
+Tacu_Tacu,23,"Frijoles, arroz, cebolla, ajo, aji amarillo, aceite, sal, pimienta",No contiene
+Arroz_Tapado,37,"Arroz, carne molida, cebolla, ajo, tomate, pasas, aceitunas, huevo, platano maduro, sal, pimienta",huevo
+Chicharron_de_Cerdo,8,"Carne de cerdo, ajo, comino, sal, pimienta, aceite",No contiene
+Lomo_Saltado,15,"Lomo de res, cebolla, tomate, aji amarillo, vinagre, salsa de soya, papas fritas, culantro, sal, pimienta",No contiene
+Tallarines_Rojos,7,"Tallarines, carne de res, tomate, cebolla, ajo, zanahoria, pimention, laurel, queso parmesano, sal, pimienta",No contiene
+Asado_con_Pure,33,"Carne de res, cebolla, ajo, zanahoria, vino tinto, laurel, papas, leche, mantequilla, sal, pimienta",leche
+Choclo_con_Queso,2,"Choclo, queso fresco, mantequilla, sal",No contiene
+Ocopa,16,"Huacatay, aji mirasol, queso fresco, leche, galletas de soda, mani, cebolla, ajo, papa, aceitunas, huevo duro, sal, pimienta","huevo, mani, leche"
+Tallarin_Saltado,24,"Tallarines, carne de res o pollo, cebolla, tomate, pimention, aji amarillo, salsa de soya, vinagre, aceite de sesamo, sal, pimienta",No contiene
+Bisteck_a_lo_Pobre,38,"Bistec de res, cebolla, ajo, huevo, plitano maduro, papas fritas, arroz, sal, pimienta",huevo
+Choritos_a_la_Chalaca,11,"Choros (mejillones), cebolla, tomate, aji limo, limion, choclo, culantro, sal, pimienta",mariscos
+Olluquito,26,"Olluco, carne de res, cebolla, ajo, aji amarillo, hierbabuena, sal, pimienta",No contiene
+Tallarines_Verdes,13,"Tallarines, albahaca, espinaca, queso fresco, leche evaporada, nueces, ajo, cebolla, sal, pimienta",leche
+Caldo_de_Gallina,39,"Gallina, fideos, papa, huevo, kion (jengibre), cebolla china, ajo, hierbabuena, sal, pimienta",huevo
+Chupe_de_Camarones,12,"Camarones, papa, arroz, choclo, habas, huevo, leche, aji amarillo, cebolla, ajo, tomate, huacatay, queso fresco, sal, pimienta","huevo, leche, mariscos"
+Papa_a_la_Huancaina,17,"Papa, aji amarillo, queso fresco, leche evaporada, galletas de soda, aceite, limon, huevo duro, aceitunas, sal, pimienta","huevo, leche"
+Tamales,20,"Maiz, carne de cerdo o pollo, aji panca, aji amarillo, cebolla, ajo, mani, huevo, aceitunas, hojas de platano o maiz, sal, pimienta","huevo, mani"
