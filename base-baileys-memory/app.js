@@ -16,7 +16,18 @@ const mediaFlow  = addKeyword(EVENTS.MEDIA)
 .addAction(
     async (ctx, { flowDynamic }) => {
         const answer = await postCompletion(ctx.localPath);
-        await flowDynamic(answer);
+        // Eliminar las comillas dobles al principio y al final de la cadena
+        let cleanedAnswer = answer.replace(/^"(.*)"$/, '$1');
+
+        // Decodificar caracteres escapados (si es necesario)
+        cleanedAnswer = cleanedAnswer
+            .replace(/\\n/g, '\n')  // Reemplazar saltos de línea escapados
+            .replace(/\\u([\dA-F]{4})/gi, (match, group) => 
+                String.fromCharCode(parseInt(group, 16))  // Decodificar unicode
+            ).replace(/_/g, ' ');
+
+        // Enviar texto decodificado a flowDynamic
+        await flowDynamic(cleanedAnswer);
     }
 )
    

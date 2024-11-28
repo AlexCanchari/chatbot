@@ -23,20 +23,26 @@ def post_completion(file_path):
         data = response.json()
 
         # Leer el CSV (asegúrate de ajustar la ruta al archivo CSV correcto)
-        df = pd.read_csv('./diccionario/recetas.csv', encoding='ISO-8859-1')  # Cambia esto a la ruta de tu archivo CSV
+        df = pd.read_csv('./diccionario/recetas.csv', encoding='ISO-8859-1')  
 
         # Filtrar el DataFrame según el valor de prediction
         result = df[df['clase'] == data['prediction']]
 
-        index = 0
+        if not result.empty:
+            index = 0
 
-        resultado = (
-            "La Clase: " + str(int(result['clase'].values[index])) +
-            " Es el Plato: " + result['plato'].values[index] +
-            " Contiene estos posibles ingredientes: " + result['receta'].values[index] +
-            " Ingredientes alergenos: " + result['alergia'].values[index]
-        )
+            # Construir el mensaje con un formato más claro
+            resultado = (
+            f"Plato detectado: {result['plato'].values[index]}\n\n"
+            f"Contiene estos ingredientes:\n"
+            f"{result['receta'].values[index]}\n\n"
+            f"Ingredientes alergenos:\n"
+            f"{result['alergia'].values[index]}"
+            )
+        else:
+            resultado = "No se encontró un plato para la clase proporcionada."   
         return resultado
+    
     except FileNotFoundError as e:
         print(f"Error: {e}", file=sys.stderr)
         return {"error 1": str(e)}

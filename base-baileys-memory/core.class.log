@@ -1,31 +1,30 @@
 [handleMsg]:  {
   key: {
-    remoteJid: '51991576027@s.whatsapp.net',
+    remoteJid: '51915016255@s.whatsapp.net',
     fromMe: false,
-    id: '8C1174B1528BF89967241D87185F722F',
+    id: '3EB0BC156DCBE302D25945',
     participant: undefined
   },
-  messageTimestamp: 1727148580,
-  pushName: 'Franchesca Arzola',
+  messageTimestamp: 1732510122,
+  pushName: 'Rei',
   broadcast: false,
   message: Message {
     imageMessage: ImageMessage {
       interactiveAnnotations: [],
-      scanLengths: [Array],
+      scanLengths: [],
       annotations: [],
-      url: 'https://mmg.whatsapp.net/v/t62.7118-24/30916563_534089395828995_8392238543131204838_n.enc?ccb=11-4&oh=01_Q5AaIG8-dExP8ug-hGlS0bPQUws2VZDRDKKHuPIw-ebaoW_a&oe=6719B6D9&_nc_sid=5e03e0&mms3=true',
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-05d2f19f-e114-4d60-95b5-a3e12597fea3?ccb=9-4&oh=01_Q5AaIId2CiXpOdKSWTmsGyXz6PHoMtYMZMrAtZxv4A3Cgn-d&oe=676B6AD0&_nc_sid=e6ed6c&mms3=true',
       mimetype: 'image/jpeg',
       fileSha256: [Uint8Array],
       fileLength: [Long],
-      height: 1200,
-      width: 1600,
+      height: 1280,
+      width: 960,
       mediaKey: [Uint8Array],
       fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7118-24/30916563_534089395828995_8392238543131204838_n.enc?ccb=11-4&oh=01_Q5AaIG8-dExP8ug-hGlS0bPQUws2VZDRDKKHuPIw-ebaoW_a&oe=6719B6D9&_nc_sid=5e03e0',
+      directPath: '/o1/v/t62.7118-24/f1/m233/up-oil-image-05d2f19f-e114-4d60-95b5-a3e12597fea3?ccb=9-4&oh=01_Q5AaIId2CiXpOdKSWTmsGyXz6PHoMtYMZMrAtZxv4A3Cgn-d&oe=676B6AD0&_nc_sid=e6ed6c',
       mediaKeyTimestamp: [Long],
       jpegThumbnail: [Uint8Array],
-      scansSidecar: [Uint8Array],
-      midQualityFileSha256: [Uint8Array]
+      viewOnce: false
     },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
@@ -33,37 +32,14 @@
       messageSecret: [Uint8Array]
     }
   },
-  body: '_event_media__26a800a2-29f7-492a-9a9f-decba374b94d',
-  name: 'Franchesca Arzola',
-  from: '51991576027',
-  host: '51963253887'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51977364125@s.whatsapp.net',
-    fromMe: false,
-    id: '3AE57485E84E5AC0A7BF',
-    participant: undefined
-  },
-  messageTimestamp: 1727148580,
-  pushName: 'aileen rodriguez 💗',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: '😞', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: '😞',
-  name: 'aileen rodriguez 💗',
-  from: '51977364125',
+  body: '_event_media__69f5706a-c426-40b4-82e8-fb0fc4005f53',
+  name: 'Rei',
+  from: '51915016255',
   host: '51963253887'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4f35736c-4560-4290-9070-e73cc12da53b',
-  keyword: 'key_a2fcfd04-2ab8-410f-ba61-60737203caee',
+  ref: 'ans_b104aefe-5640-4f70-bf95-695e72323520',
+  keyword: 'key_a1cfa589-8298-4ece-bbc5-8c97e06f151b',
   answer: 'Leyendo imagen....',
   options: {
     media: undefined,
@@ -76,38 +52,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '74cd83ec9284c712155648e8a9d69882'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '51991576027@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB065C24EC12F94F4E913',
-    participant: undefined
-  },
-  messageTimestamp: 1727148581,
-  pushName: 'Franchesca Arzola',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage {
-      type: 4,
-      ephemeralExpiration: 0,
-      ephemeralSettingTimestamp: [Long],
-      disappearingMode: [DisappearingMode]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  name: 'Franchesca Arzola',
-  from: '51991576027',
-  host: '51963253887'
+  refSerialize: '92ba0b2f173b094815c2dff3e4614398'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_79f7d27d-056a-4d1c-bb8f-e5015bd510e9',
-  keyword: 'ans_4f35736c-4560-4290-9070-e73cc12da53b',
+  ref: 'ans_8fadbf74-df41-425c-b4df-fac7ecc9021b',
+  keyword: 'ans_b104aefe-5640-4f70-bf95-695e72323520',
   answer: '__call_action__',
   options: {
     media: undefined,
@@ -120,51 +69,59 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '880c2437688f7d3f20acbf06e1f3f44f'
+  refSerialize: '28d493a29de60afa2dcab3ae20dd252e'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51977364125@s.whatsapp.net',
+    remoteJid: '51991576027@s.whatsapp.net',
     fromMe: false,
-    id: '3A1D95BE0BCA40B2DB5B',
+    id: '3EB08AABCD347CF475B742',
     participant: undefined
   },
-  messageTimestamp: 1727148585,
-  pushName: 'aileen rodriguez 💗',
+  messageTimestamp: 1732510145,
+  pushName: 'Franchesca Arzola',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: '😞', contextInfo: [ContextInfo] },
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'te llego un mensaje ?',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '😞',
-  name: 'aileen rodriguez 💗',
-  from: '51977364125',
+  body: 'te llego un mensaje ?',
+  name: 'Franchesca Arzola',
+  from: '51991576027',
   host: '51963253887'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '51977364125@s.whatsapp.net',
+    remoteJid: '51991576027@s.whatsapp.net',
     fromMe: false,
-    id: '3ABAFE4243206F30D346',
+    id: '3EB0D7ECC418676582E305',
     participant: undefined
   },
-  messageTimestamp: 1727148611,
-  pushName: 'aileen rodriguez 💗',
+  messageTimestamp: 1732510163,
+  pushName: 'Franchesca Arzola',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: '🍝', contextInfo: [ContextInfo] },
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Yap , procede a cerrarlo , era el último',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: '🍝',
-  name: 'aileen rodriguez 💗',
-  from: '51977364125',
+  body: 'Yap , procede a cerrarlo , era el último',
+  name: 'Franchesca Arzola',
+  from: '51991576027',
   host: '51963253887'
 }
